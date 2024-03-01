@@ -1,8 +1,6 @@
-# React + Vite
+Here's the deployed site :-
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://simple-e-com-with-reduxtoolkit.netlify.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I made an basic E-com website which contains cart service without any backend service.
+It's an Begginer level project.
